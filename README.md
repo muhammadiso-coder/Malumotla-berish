@@ -1,0 +1,1 @@
+# Malumotla-berish
