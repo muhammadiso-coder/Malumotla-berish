@@ -1,0 +1,51 @@
+.title{
+text-align: center;
+background-color: greenyellow;
+color: red;
+font-size: 30px;
+}
+.title h2:hover{
+background-color: red;
+color: white;
+transition: 1s;
+cursor: pointer;
+}
+.row{
+width: 100%;
+display: flex;
+justify-content: space-between;
+}
+
+img{
+width: 500px;
+height: 300px;
+}
+
+video{
+    width: 495px;
+    height: 300px;
+}
+video{
+    width: 495px;
+    height: 300px;
+}
+h2{
+    color: red;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 33px;
+}
+.title h2:hover{
+    background-color: red;
+    color: white;
+    transition: 1s;
+    cursor: pointer;
+    }
+
+
+
+
+
+
+
+
